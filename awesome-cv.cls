@@ -380,8 +380,8 @@
 \newcommand{\acvHeaderAfterAddressSkip}{-.5mm}
 \newcommand{\acvHeaderIconSep}{\space}
 \newcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
-\newcommand{\acvHeaderAfterSocialSkip}{6mm}
-\newcommand{\acvHeaderAfterQuoteSkip}{5mm}
+\newcommand{\acvHeaderAfterSocialSkip}{3mm}
+\newcommand{\acvHeaderAfterQuoteSkip}{-3mm}
 
 % Others
 \newcommand{\acvSectionTopSkip}{3mm}
@@ -513,14 +513,15 @@
       \ifthenelse{\isundefined{\@codechef}}%
         {}%
         {%
-          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{https://www.codechef.com/users/\@codechef}{\includegraphics[scale=0.12]{codechef}~\@codechef}%
+          % \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          % \newline
+          \href{https://www.codechef.com/users/huzaifa242}{\includegraphics[scale=0.12]{codechef}~\@codechef}%
         }
       \ifthenelse{\isundefined{\@codeforces}}%
         {}%
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{https://www.codeforces.com/profile/\@codeforces}{\includegraphics[scale=0.04]{codeforces}~\@codeforces}%
+          \href{https://www.codeforces.com/profile/huzaifa242}{\includegraphics[scale=0.04]{codeforces}~\@codeforces}%
         }
       \ifthenelse{\isundefined{\@extrainfo}}%
         {}%
@@ -531,7 +532,7 @@
     } \\[\acvHeaderAfterSocialSkip]%
     \ifthenelse{\isundefined{\@quote}}%
       {}%
-      {\headerquotestyle{\@quote\\}\vspace{\acvHeaderAfterQuoteSkip}}%
+      {\headerquotestyle{\@quote}\vspace{\acvHeaderAfterQuoteSkip}}%
   \end{minipage}%
   \begin{minipage}[c]{\headerphotowidth}%
     \ifthenelse{\equal{\@photoalign}{right}}{\raggedleft\drawphoto}{}
