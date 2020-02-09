@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.11.17)  12 OCT 2019 00:35
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.11.17)  4 FEB 2020 21:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1259,15 +1259,16 @@ able
 t line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 22.
-) (./cv-sections/presentation.tex) [1
+) (./cv-sections/experience.tex)
+(./cv-sections/presentation.tex) [1
 
-]
-(./cv-sections/honors.tex
+] (./cv-sections/honors.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
-) (./cv-sections/skills.tex
+)
+(./cv-sections/skills.tex
 Overfull \hbox (28.25247pt too wide) in alignment at lines 11--33
 [] [] 
  []
@@ -1280,9 +1281,9 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 96.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 96.
  ) 
 Here is how much of TeX's memory you used:
- 37930 strings out of 493007
- 747848 string characters out of 6136718
- 959285 words of memory out of 5000000
+ 37933 strings out of 493007
+ 747912 string characters out of 6136718
+ 959287 words of memory out of 5000000
  41417 multiletter control sequences out of 15000+600000
  532722 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
