@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.11.26)  27 NOV 2021 01:53
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.11.26)  6 NOV 2022 18:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -926,48 +926,46 @@ File: codechef.jpg Graphic file (type bmp)
 <codechef.jpg>
 File: codeforces.png Graphic file (type bmp)
 <codeforces.png>
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 77.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 77.
 
 Overfull \hbox (1.46pt too wide) in paragraph at lines 77--77
 []$[]$ $[]$$[]$ 
  []
 
-(./cv-sections/education.tex
+(./cv-sections/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 16.0pt on input line 5.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 16.0pt on input line 5.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 22.
+(Font)              scaled to size 10.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 22.
+(Font)              scaled to size 10.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 22.
+(Font)              scaled to size 9.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 22.
+t line 31.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 22.
+(Font)              scaled to size 9.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 22.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 22.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 22.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 22.
+t line 31.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 22.
-) (./cv-sections/experience.tex)
-(./cv-sections/presentation.tex) [1
+(Font)              scaled to size 8.0pt on input line 31.
+) (./cv-sections/presentation.tex)
+(./cv-sections/education.tex) [1
 
 ] (./cv-sections/honors.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 23.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
 )
@@ -976,17 +974,33 @@ Overfull \hbox (28.70247pt too wide) in alignment at lines 11--33
 [] [] 
  []
 
-) (./cv-sections/extracurricular.tex) [2] (./Huzaifa_Resume.aux)
+) (./cv-sections/extracurricular.tex) [2]
+
+! LaTeX Error: \begin{center} on input line 12 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \end{document}
+                   
+? 
+(./Huzaifa_Resume.aux)
 Package rerunfilecheck Info: File `Huzaifa_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
+ )
+(\end occurred inside a group at level 2)
+
+### semi simple group (level 2) entered at line 12 (\begingroup)
+### semi simple group (level 1) entered at line 12 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 31659 strings out of 477220
- 622836 string characters out of 5832721
- 1121075 words of memory out of 5000000
+ 31658 strings out of 477220
+ 622741 string characters out of 5832721
+ 1120015 words of memory out of 5000000
  50822 multiletter control sequences out of 15000+600000
- 406106 words of font info for 101 fonts, out of 8000000 for 9000
+ 406098 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 127i,11n,130p,552b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 127i,11n,130p,552b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Huzaifa_Resume.pdf (2 pages).
