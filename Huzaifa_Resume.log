@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.11.26)  6 NOV 2022 20:09
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.11.26)  6 NOV 2022 20:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -922,10 +922,17 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 7.6pt on input line 77.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 (Font)              scaled to size 7.6pt on input line 77.
-File: codechef.jpg Graphic file (type bmp)
-<codechef.jpg>
-File: codeforces.png Graphic file (type bmp)
-<codeforces.png>
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 
+     
+? 
 
 Overfull \hbox (1.46pt too wide) in paragraph at lines 77--77
 []$[]$ $[]$$[]$ 
@@ -995,10 +1002,10 @@ Package rerunfilecheck Info: File `Huzaifa_Resume.out' has not changed.
 ### semi simple group (level 1) entered at line 12 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 31658 strings out of 477220
- 622741 string characters out of 5832721
- 1119015 words of memory out of 5000000
- 50822 multiletter control sequences out of 15000+600000
+ 31631 strings out of 477220
+ 622430 string characters out of 5832721
+ 1118969 words of memory out of 5000000
+ 50802 multiletter control sequences out of 15000+600000
  406098 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  127i,11n,130p,552b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
